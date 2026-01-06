@@ -28,6 +28,38 @@ Passionate about creating robust, scalable applications. Currently diving deep i
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dddaglar&layout=compact&theme=radical&hide_border=true&card_width=445)
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dddaglar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dddaglar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddaglar&layout=compact&langs_count=6&theme=radical&hide_border=true&hide=html,css"/>
+</a>
+
+</div>
+
+## 💼 What I Code With
+
+```text
+Go           ████████████░░░░░░░░   60%
+JavaScript   ████████░░░░░░░░░░░░   40%
+Python       ██████░░░░░░░░░░░░░░   30%
+TypeScript   ████░░░░░░░░░░░░░░░░   20%
+SQL          ███░░░░░░░░░░░░░░░░░   15%
+```
+
 </div>
 
 ## 📫 Let's Connect!
