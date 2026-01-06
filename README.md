@@ -26,11 +26,7 @@ Passionate about creating robust, scalable applications. Currently diving deep i
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dddaglar&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dddaglar&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dddaglar&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dddaglar&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 </div>
 
