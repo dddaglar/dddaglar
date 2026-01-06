@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Deniz
+# 👋 I'm Deniz
 
 ### 💻 Fullstack Software Engineer
 
