@@ -26,7 +26,7 @@ Passionate about creating robust, scalable applications. Currently diving deep i
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dddaglar&theme=dark&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dddaglar&layout=compact&theme=radical&hide_border=true&card_width=445)
 
 </div>
 
