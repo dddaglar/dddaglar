@@ -15,9 +15,9 @@ Passionate about creating robust, scalable applications. Currently diving deep i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Languages & Tools I Work With:**
-- Backend: Go, Python, RESTful APIs, WebSockets, Node.js 
+- Backend: Go, Python, Java, Node.js, C++
 - Frontend: Javascript/Typescript, React.js
-- Databases: PostgreSQL, AWS (Any NoSQL dbs), SQL
+- Databases: PostgreSQL, AWS (Any NoSQL dbs), Redis
 - DevOps: Docker, Git, CI/CD
 
 ## 📫 Let's Connect!
